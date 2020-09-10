@@ -11,3 +11,4 @@ with modifications to make it compatible with TeXLive-2016, as outlined
 here:
 http://tex.stackexchange.com/questions/326255/what-is-breaking-this-deluxetable-sty-file
 
+I provide this software as is in the hopes that others might find it useful. I do not actually maintain or update it.
